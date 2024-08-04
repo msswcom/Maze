@@ -1,0 +1,6 @@
+@Maze.API_HostAddress = http://localhost:5145
+
+GET {{Maze.API_HostAddress}}/swagger/
+Accept: application/json
+
+###
